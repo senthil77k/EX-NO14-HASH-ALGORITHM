@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6e6929a7-8154-45aa-9d88-7bd6e02e2b39)# EX-NO14-HASH-ALGORITHM
+# EX-NO14-HASH-ALGORITHM
 
 ## AIM:
 To implement HASH ALGORITHM
